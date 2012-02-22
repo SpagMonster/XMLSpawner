@@ -1,4 +1,4 @@
-Welcome to the UNOFFICIAL releases of XMLSpawner for newer versions of RunUO.
+Welcome to the UNOFFICIAL releases of XMLSpawner for newer versions of RunUO 2.1 and up.
 
 I myself take NO credit in fixing these, just finding and posting maintaining workable versions that compile.
 
