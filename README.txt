@@ -11,8 +11,5 @@ Runuo 2.2 fix by Orbsydia
 OFFICIAL FORUMS AT:
 http://xmlspawner.15.forumer.com/
 
-<<<<<<< HEAD
+
 SVN versions not entirely supported!
-=======
-SVN WILL NOT BE SUPPORTED!! IF YOU WISH TO JOIN AND CONTRIBUTE TO SVN, EMAIL ME.
->>>>>>> origin/master
