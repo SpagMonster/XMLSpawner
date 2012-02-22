@@ -10,3 +10,5 @@ Runuo 2.2 fix by unknown not fixed yet
 
 OFFICIAL FORUMS AT:
 http://xmlspawner.15.forumer.com/
+
+SVN WILL NOT BE SUPPORTED!! IF YOU WISH TO JOIN AND CONTRIBUTE TO SVN, EMAIL ME.
