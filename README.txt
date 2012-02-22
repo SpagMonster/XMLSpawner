@@ -5,8 +5,10 @@ I myself take NO credit in fixing these, just finding and posting maintaining wo
 RunUO 2.1 fix by shrundowr source:
 http://www.runuo.com/community/threads/runuo-2-1-xmlspawner.472301/#post-3681885
 
-Runuo 2.2 fix by unknown not fixed yet
+Runuo 2.2 fix by Orbsydia
 
 
 OFFICIAL FORUMS AT:
 http://xmlspawner.15.forumer.com/
+
+SVN versions not entirely supported!

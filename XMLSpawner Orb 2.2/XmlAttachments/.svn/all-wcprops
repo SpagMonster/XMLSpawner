@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1/trunk/Scripts/Custom%20Systems/Xml%20Spawner/XmlAttachments
+END
+XmlInt.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1/trunk/Scripts/Custom%20Systems/Xml%20Spawner/XmlAttachments/XmlInt.cs
+END
+XmlLifeDrain.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1/trunk/Scripts/Custom%20Systems/Xml%20Spawner/XmlAttachments/XmlLifeDrain.cs
+END
+XmlLocalVariable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1/trunk/Scripts/Custom%20Systems/Xml%20Spawner/XmlAttachments/XmlLocalVariable.cs
+END
+XmlAddKarma.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1/trunk/Scripts/Custom%20Systems/Xml%20Spawner/XmlAttachments/XmlAddKarma.cs
+END
+XmlWeaponAbility.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1/trunk/Scripts/Custom%20Systems/Xml%20Spawner/XmlAttachments/XmlWeaponAbility.cs
+END
+XmlStr.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1/trunk/Scripts/Custom%20Systems/Xml%20Spawner/XmlAttachments/XmlStr.cs
+END
+XmlData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1/trunk/Scripts/Custom%20Systems/Xml%20Spawner/XmlAttachments/XmlData.cs
+END
+TemporaryQuestObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1/trunk/Scripts/Custom%20Systems/Xml%20Spawner/XmlAttachments/TemporaryQuestObject.cs
+END
+XmlValue.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1/trunk/Scripts/Custom%20Systems/Xml%20Spawner/XmlAttachments/XmlValue.cs
+END
+XmlSaveItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1/trunk/Scripts/Custom%20Systems/Xml%20Spawner/XmlAttachments/XmlSaveItem.cs
+END
+XmlDate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1/trunk/Scripts/Custom%20Systems/Xml%20Spawner/XmlAttachments/XmlDate.cs
+END
+XmlDex.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1/trunk/Scripts/Custom%20Systems/Xml%20Spawner/XmlAttachments/XmlDex.cs
+END
+XmlAddFame.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1/trunk/Scripts/Custom%20Systems/Xml%20Spawner/XmlAttachments/XmlAddFame.cs
+END
+XmlEnemyMastery.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1/trunk/Scripts/Custom%20Systems/Xml%20Spawner/XmlAttachments/XmlEnemyMastery.cs
+END
+XmlStamDrain.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1/trunk/Scripts/Custom%20Systems/Xml%20Spawner/XmlAttachments/XmlStamDrain.cs
+END
+XmlDeathAction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1/trunk/Scripts/Custom%20Systems/Xml%20Spawner/XmlAttachments/XmlDeathAction.cs
+END
+XmlMorph.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1/trunk/Scripts/Custom%20Systems/Xml%20Spawner/XmlAttachments/XmlMorph.cs
+END
+XmlFire.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1/trunk/Scripts/Custom%20Systems/Xml%20Spawner/XmlAttachments/XmlFire.cs
+END
+XmlAddVirtue.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1/trunk/Scripts/Custom%20Systems/Xml%20Spawner/XmlAttachments/XmlAddVirtue.cs
+END
+XmlManaDrain.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1/trunk/Scripts/Custom%20Systems/Xml%20Spawner/XmlAttachments/XmlManaDrain.cs
+END
+XmlUse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1/trunk/Scripts/Custom%20Systems/Xml%20Spawner/XmlAttachments/XmlUse.cs
+END
+XmlDialog.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1/trunk/Scripts/Custom%20Systems/Xml%20Spawner/XmlAttachments/XmlDialog.cs
+END
+XmlMinionStrike.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1/trunk/Scripts/Custom%20Systems/Xml%20Spawner/XmlAttachments/XmlMinionStrike.cs
+END
+XmlMagicWord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1/trunk/Scripts/Custom%20Systems/Xml%20Spawner/XmlAttachments/XmlMagicWord.cs
+END
+XmlSkill.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1/trunk/Scripts/Custom%20Systems/Xml%20Spawner/XmlAttachments/XmlSkill.cs
+END
+XmlAddTithing.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1/trunk/Scripts/Custom%20Systems/Xml%20Spawner/XmlAttachments/XmlAddTithing.cs
+END
+XmlFreeze.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1/trunk/Scripts/Custom%20Systems/Xml%20Spawner/XmlAttachments/XmlFreeze.cs
+END
+XmlHue.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1/trunk/Scripts/Custom%20Systems/Xml%20Spawner/XmlAttachments/XmlHue.cs
+END
+XmlLightning.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1/trunk/Scripts/Custom%20Systems/Xml%20Spawner/XmlAttachments/XmlLightning.cs
+END
+XmlMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1/trunk/Scripts/Custom%20Systems/Xml%20Spawner/XmlAttachments/XmlMessage.cs
+END
+XmlSound.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1/trunk/Scripts/Custom%20Systems/Xml%20Spawner/XmlAttachments/XmlSound.cs
+END

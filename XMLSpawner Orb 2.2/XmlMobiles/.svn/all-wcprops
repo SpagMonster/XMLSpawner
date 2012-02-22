@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1/trunk/Scripts/Custom%20Systems/Xml%20Spawner/XmlMobiles
+END
+TalkingSeekerOfAdventure.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1/trunk/Scripts/Custom%20Systems/Xml%20Spawner/XmlMobiles/TalkingSeekerOfAdventure.cs
+END
+TalkingBaseCreature.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1/trunk/Scripts/Custom%20Systems/Xml%20Spawner/XmlMobiles/TalkingBaseCreature.cs
+END
+TalkingDrake.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1/trunk/Scripts/Custom%20Systems/Xml%20Spawner/XmlMobiles/TalkingDrake.cs
+END
+TalkingBaseVendor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1/trunk/Scripts/Custom%20Systems/Xml%20Spawner/XmlMobiles/TalkingBaseVendor.cs
+END
+XmlQuestNPC.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1/trunk/Scripts/Custom%20Systems/Xml%20Spawner/XmlMobiles/XmlQuestNPC.cs
+END
+TalkingJeweler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1/trunk/Scripts/Custom%20Systems/Xml%20Spawner/XmlMobiles/TalkingJeweler.cs
+END
+TalkingBaseEscortable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1/trunk/Scripts/Custom%20Systems/Xml%20Spawner/XmlMobiles/TalkingBaseEscortable.cs
+END
