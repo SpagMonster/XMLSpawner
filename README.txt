@@ -13,3 +13,6 @@ http://xmlspawner.15.forumer.com/
 
 
 SVN versions not entirely supported!
+
+NOTE:
+By running the 2.1 verion on a production server, it failed as they had switched the spawning interface so if 2.1 doesn't compile on your 2.1 server, please try 2.2, if it does compile then leave it and enjoy!
